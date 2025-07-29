@@ -27,3 +27,4 @@ bot('sendMessage', [
         'text' => "Check",
         'parse_mode' => 'HTML' // Optional: if you want to use HTML formatting in your message
     ]);
+exit();
