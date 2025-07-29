@@ -1,5 +1,5 @@
-define('ADMIN', 8939as99836); // Telegram Admin User ID
-define('API_KEY', '5829850036:AAGHFsaPZdEC2ABiBbMwRDjAofXL7tMRRNYkY'); // Telegram Bot API Key
+define('ADMIN', 1334041795); // Telegram Admin User ID
+define('API_KEY', '5829850036:AAGHFPZdEC2ABiBbMwRDjAofXL7tMRRNYkY'); // Telegram Bot API Key
 
 function bot($method, $datas = [])
 {
@@ -24,6 +24,6 @@ function bot($method, $datas = [])
 
 bot('sendMessage', [
         'chat_id' => ADMIN,
-        'text' => $message_text,
+        'text' => "Check",
         'parse_mode' => 'HTML' // Optional: if you want to use HTML formatting in your message
     ]);
