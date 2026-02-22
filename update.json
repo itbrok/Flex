@@ -1,9 +1,9 @@
 {
     "22102024": {
-        "migrations": [
-            "1.json",
-            "2.json"
-        ],
+        {
+            "file": "addHashCol.json",
+            "hash": "sha256:cbb64c22914a1b5a38d3708871cad06a1eed3938929106341d207b9c53da4f5a"
+        },
       "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/22102024/"
     },
     "version": "1.1.3",
