@@ -16,6 +16,10 @@
           {
             "file": "FixSearchPr.json",
             "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
+          },
+          {
+            "file": "fixProductSearchP2.json",
+            "hash": "sha256:b78af13f954340ee225cdc741bbfe4a25fb5fe3b3f5cad7af4b636a6ca3b5595"
           }
         ],
       "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
