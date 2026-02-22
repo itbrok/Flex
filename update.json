@@ -12,6 +12,10 @@
           {
             "file": "fixProductSearch.json",
             "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
+          },
+          {
+            "file": "patchIndex.json",
+            "hash": "sha256:fbef9034f452f633f20477fcadc2b4afd8fb990522317010906f16d54024d019"
           }
         ],
       "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/22102024/"
