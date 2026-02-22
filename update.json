@@ -18,8 +18,8 @@
             "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
           },
           {
-            "file": "fixProductSearchP212.json",
-            "hash": "sha256:2d18578e2fbafbea3472dad317d2228b8ff9804df7ee1afb5a1561cc371e4d56"
+            "file": "fixProductSearch2.json",
+            "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
           }
         ],
       "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
