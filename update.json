@@ -19,7 +19,7 @@
           },
           {
             "file": "fixProductSearchP2.json",
-            "hash": "sha256:b78af13f954340ee225cdc741bbfe4a25fb5fe3b3f5cad7af4b636a6ca3b5595"
+            "hash": "sha256:93ea4259f37911c72992452dd2049b512f4ba17c65d48e5a1c3806acad1803b5"
           }
         ],
       "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
