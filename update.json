@@ -25,11 +25,6 @@
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
     "testapp": {
-        "migrations": [
-            {
-                "file": "testExit3.json",
-                "hash": "sha256:e320b02bad99bc2e17c1b63dac87bf58532f9f3c5ea25c2917e8c719f367fc30"
-            }
-        ]
+        "migrations": []
     }
 }
