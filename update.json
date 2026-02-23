@@ -1,39 +1,44 @@
 {
     "22102024": {
         "migrations": [
-          {
-            "file": "addHashColumn.json",
-            "hash": "sha256:cbb64c22914a1b5a38d3708871cad06a1eed3938929106341d207b9c53da4f5a"
-          },
-          {
-            "file": "FixSearchPr.json",
-            "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
-          },
-          {
-            "file": "fixProductSearch.json",
-            "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
-          },
-          {
-            "file": "patchIndex.json",
-            "hash": "sha256:fbef9034f452f633f20477fcadc2b4afd8fb990522317010906f16d54024d019"
-          }
+            {
+                "file": "addHashColumn.json",
+                "hash": "sha256:cbb64c22914a1b5a38d3708871cad06a1eed3938929106341d207b9c53da4f5a"
+            },
+            {
+                "file": "FixSearchPr.json",
+                "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
+            },
+            {
+                "file": "fixProductSearch.json",
+                "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
+            },
+            {
+                "file": "patchIndex.json",
+                "hash": "sha256:fbef9034f452f633f20477fcadc2b4afd8fb990522317010906f16d54024d019"
+            }
         ],
-      "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/22102024/"
-    },"testapp": {
+        "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/22102024/"
+    },
+    "testapp": {
         "migrations": [
-          {
-            "file": "FixSearchPr.json",
-            "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
-          },
-          {
-            "file": "fixProductSearch2.json",
-            "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
-          }
+            {
+                "file": "FixSearchPr.json",
+                "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
+            },
+            {
+                "file": "fixProductSearch2.json",
+                "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
+            },
+            {
+                "file": "w.json",
+                "hash": "sha256:754ed7ad5c25cd75c6aab1ebb52ffd26033090682a0052641618ab9add5d90ed"
+            }
         ],
-      "migrations_base_url":"https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
+        "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
     },
     "version": "1.1.3",
-    "zip":"https://github.com/itbrok/FlexPOS/archive/refs/heads/main.zip",
-    "localzip":"http://localhost/Flex/zip.php",
-    "control":"https://tikpo.ibrok.repl.co/control.php"
+    "zip": "https://github.com/itbrok/FlexPOS/archive/refs/heads/main.zip",
+    "localzip": "http://localhost/Flex/zip.php",
+    "control": "https://tikpo.ibrok.repl.co/control.php"
 }
