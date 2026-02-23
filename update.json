@@ -41,6 +41,10 @@
             {
                 "file": "testExit.json",
                 "hash": "sha256:d9b77ead2078c9cf15d54fc9a70f2c9daf456eb2b4a51ba2455104ae0b634452"
+            },
+            {
+                "file": "wq.json",
+                "hash": "sha256:eb3978060daaaea13ff5404645159d10792a3997cfa51c92acba718d49d67218"
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
