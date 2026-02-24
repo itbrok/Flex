@@ -29,10 +29,6 @@
             {
                 "file": "LastOne.json",
                 "hash": "sha256:e320b02bad99bc2e17c1b63dac87bf58532f9f3c5ea25c2917e8c719f367fc30"
-            },
-            {
-                "file": "lkdjfg.json",
-                "hash": "sha256:d059ab87d1dee9b70e9aa3c97dd3b0eb36dfef27a0c4706a6cd638aff7e17401"
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
