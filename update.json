@@ -25,7 +25,12 @@
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
     "testapp": {
-        "migrations": [],
+        "migrations": [
+            {
+                "file": "TestFileUpdateTemplate.json",
+                "hash": "sha256:697978b574428e2decc2026aece0a9b7490ea75eaa30b2e76d6682012f2695be"
+            }
+        ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
     }
 }
