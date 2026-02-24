@@ -24,6 +24,10 @@
             {
                 "file": "fix_errorLogs_inIdx.php.json",
                 "hash": "sha256:8cfe48a8bb22bcc19d4c59919c7d63060c27578b4f24a1c7b86ed7e4dcf4fe28"
+            },
+            {
+                "file": "z_updIdx.phpSort.json",
+                "hash": "sha256:1f1e06de8b014775e0507c38612a3dc4b9cd7b21b7eabe9de6a28d0fec0dc2ba"
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/22102024/"
