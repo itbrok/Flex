@@ -1,6 +1,12 @@
 {
     "22102024": {
-        "migrations": [],
+        "migrations": [
+            {
+                "file": "1upUpphp.json",
+                "hash": "sha256:35507b617d9e525a818a5baeb7ae21b0b8d253218c228423ef509e866a0641f3",
+                "time": 1772018143
+            }
+        ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
     "version": "1.1.3",
