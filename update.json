@@ -1,22 +1,6 @@
 {
     "22102024": {
         "migrations": [
-            {
-                "file": "addHashColumn.json",
-                "hash": "sha256:cbb64c22914a1b5a38d3708871cad06a1eed3938929106341d207b9c53da4f5a"
-            },
-            {
-                "file": "FixSearchPr.json",
-                "hash": "sha256:964b8995c5fe46b591a9f472129a9cead3d152dfbde42014b6ad18e302262055"
-            },
-            {
-                "file": "fixProductSearch.json",
-                "hash": "sha256:3e7224e6afd86a2876652d0a124d43cafe793de474fc8413cd5d95d7177c51bd"
-            },
-            {
-                "file": "patchIndex.json",
-                "hash": "sha256:fbef9034f452f633f20477fcadc2b4afd8fb990522317010906f16d54024d019"
-            }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
