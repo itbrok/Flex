@@ -29,6 +29,11 @@
             {
                 "file": "TestFileUpdateTemplate.json",
                 "hash": "sha256:697978b574428e2decc2026aece0a9b7490ea75eaa30b2e76d6682012f2695be"
+            },
+            {
+                "file": "printha1.json",
+                "hash": "sha256:a5b753f6a5e026b75f742c209be90d960eae63d076dc17475dc1f91ce0282f21",
+                "time": 1772016733
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/testapp/"
