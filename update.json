@@ -1,6 +1,13 @@
 {
     "22102024": {
-        "migrations": [],
+        "migrations": [
+            {
+                "file": "add_and_prioritize_material_tab.json",
+                "hash": "sha256:aa6273d416a8dd97b6ae4fc4112650838eadbc0ddf8a420c9e6ae35aa976ed5d",
+                "signature": "MEUCIECiaZCFXuCcoY6hEa17c/DuMmPF97pUE15wlwKuTZb/AiEA5hxA7mFRGMbKDmJtHGE52ftepOIGFKrLgglaeyBwAXU=",
+                "time": 1786743522
+            }
+        ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
     "version": "1.1.3",
