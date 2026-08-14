@@ -10,11 +10,6 @@
                 "file": "2upidxphp.json",
                 "hash": "sha256:4361df1533c138aadd31f8a5287b87f761e32fbcc6fb54938f88c7219245d008",
                 "time": 1772019997
-            },
-            {
-                "file": "feat(client): add and prioritize material inventory tab FIX  tablehead names.json",
-                "hash": "sha256:aa6273d416a8dd97b6ae4fc4112650838eadbc0ddf8a420c9e6ae35aa976ed5d",
-                "time": 1786738556
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
