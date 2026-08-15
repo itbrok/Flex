@@ -108,6 +108,12 @@
                 "hash": "sha256:46018c03f64912fe73112a93ea7f4be117681bb6eecf55f6512bbf5fbfa4e8aa",
                 "signature": "MEUCIQCglR/u7HAFU2PpNif9Lrvly6AUimroWaaeY+L1bjA46AIgFGllNSRcl4y0IIRpTXCM0DCRsMpbSczxoztwFVbUikE=",
                 "time": 1786833391
+            },
+            {
+                "file": "fix_update_errors.json",
+                "hash": "sha256:b4b865772b3fb861a9b0408ccb28619a95b7db985e01ab2c90620f1767a8266d",
+                "signature": "MEYCIQC5x6aFVOjwi8PIdY7ELJLjH/gntYaOD1qowhIDc1gpYQIhALWLW/UXdkTitzEwSYZi7AG7HT2k2P8BYHcK4tezTKT2",
+                "time": 1786836575
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
@@ -134,8 +140,6 @@
     },
     "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/",
     "batchUpdate": {
-        "migrations": [
-            
-        ]
+        "migrations": []
     }
 }
