@@ -54,6 +54,12 @@
                 "hash": "sha256:a354f9214d966b4a9f6233cdd95adc186f738eacc5b12fd6e440e8a7b6e901c1",
                 "signature": "MEYCIQDlnfAKUynBkfAV/PQMlKBTUAILWaOEdV11TeQajICYbAIhANwYiNayM4s5AuCbunGZKaa/06DJfkKI+0DzGPEDcEjV",
                 "time": 1786818795
+            },
+            {
+                "file": "fix_receipt_printing_handler.json",
+                "hash": "sha256:799dd73587b3b947080a1f68b0a54b610df94d59066751fb9a13e5ceb3b63fab",
+                "signature": "MEYCIQCNT/HjXQmPK7q8pOmFj7Vr66jMSKv3pFkqiRWEaHx9+QIhAP5ganPYtVziQ3xBFOIi9iNzXJZL1owIC54aK2KE7Oi/",
+                "time": 1786820314
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
