@@ -42,6 +42,12 @@
                 "hash": "sha256:4a2a2b4d0b5dbb381c993d6b998686ed8b3ec7b3ead876113dc52e8ac9d7dab5",
                 "signature": "MEUCIQDB7B6C7FCAzlGhnCVhqFyxLTVwhjouhA3vM7I3RDyXkQIgFAr26IwenVCcoxYSivp9lkZm5t5sLkQDSw3QpXKlvQQ=",
                 "time": 1786808566
+            },
+            {
+                "file": "add_receipt_balance_and_autoprint.json",
+                "hash": "sha256:03ca5c42f69fb8569aec50201b7352a81881470cdec25814bb71bd3e9e2b6204",
+                "signature": "MEQCIE3kmap16BbDDyqVidusGEudySA/2nNrp73StPvWxKboAiAB346v9RpeZiNTYGBCJOWCbNGDh6had4dOftmCPCRMFQ==",
+                "time": 1786812461
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
