@@ -135,12 +135,7 @@
     "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/",
     "batchUpdate": {
         "migrations": [
-            {
-                "file": "test_auto_publish.json",
-                "hash": "sha256:b48036de98efc5460ad240c6e2ffbb5dc30314b01cbe58cc11b0fa2a4c2ed58d",
-                "signature": "MEQCIBZsRPKcF1dRJ0K0vkvObOH1YPjTcbyMyArUXKlkJeaRAiAKv91dSLZatbMjIScYfR8xchKKsKfP7h/R9+1LGwNwdQ==",
-                "time": 1786834021
-            }
+            
         ]
     }
 }
