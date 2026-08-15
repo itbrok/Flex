@@ -12,6 +12,12 @@
                 "hash": "sha256:ffc92cbbd14f67bebd6ddf4666494d8fa82a46b9ea94cd98ab57a5500ace99a0",
                 "signature": "MEQCIDCIhka5hHn2aJ1j91PIfRPmcmGoDqzTuzI1Hab6cmYxAiA+F8GCpHaVaCnlRck5q2pFTfzI4yeA4unhAqZDxObpog==",
                 "time": 1786794068
+            },
+            {
+                "file": "fix_printer_list_in_index.json",
+                "hash": "sha256:3963988223ef350ba8b595fa5419a1efffeb5b9bf061efd888fe544451528154",
+                "signature": "MEUCIHkR+Z9T3noZT1xVI5gxu8VpmtQMoP6+vGhNOrI2omjLAiEAiR0vokde+uwKeCc2NrQyP1XOxk5qPtZr8EIQ2PVFspI=",
+                "time": 1786806254
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
