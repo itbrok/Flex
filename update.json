@@ -2,12 +2,6 @@
     "22102024": {
         "migrations": [
             {
-                "file": "add_and_prioritize_material_tab.json",
-                "hash": "sha256:aa6273d416a8dd97b6ae4fc4112650838eadbc0ddf8a420c9e6ae35aa976ed5d",
-                "signature": "MEUCIECiaZCFXuCcoY6hEa17c/DuMmPF97pUE15wlwKuTZb/AiEA5hxA7mFRGMbKDmJtHGE52ftepOIGFKrLgglaeyBwAXU=",
-                "time": 1786743522
-            },
-            {
                 "file": "update_settings.json",
                 "hash": "sha256:e58c27e8881d21d8fcedc4221df4b5a9906545948ec2630b9121d6ad424f30fc",
                 "signature": "MEUCICcvvcn8FpGIOzLFKpCXEVtcSK4vO7JtRwUGVXLO85ZwAiEAw3n5vlQP0i7T46zH/3WnTxQhPon6pnwPs/N510ZSF74=",
