@@ -90,6 +90,12 @@
                 "hash": "sha256:c3bfba04f1476120f715502e7fae342e66a59cc39d43f6c85708d11ab3d37c02",
                 "signature": "MEUCIDMJPYUkGraaBnfsrmkpVw0Qe3jTFeejAl1wUqhO+kqQAiEAsWw6HR4F1b7sAe5gCPkME8iiN6ENU2eeJhHpUv9md3Y=",
                 "time": 1786829619
+            },
+            {
+                "file": "ctrl_q_save.json",
+                "hash": "sha256:f72f05ca155f3d7de52ba4156f821e1dd0cfb7b2f23c81ebe33bf0176fef883c",
+                "signature": "MEYCIQDPZGLzpGscIshjEqNOl0z1xPxBavWFKz/TJoAIBAL2WwIhAMME40ZMGF2XUz+S9kufnP4jUwOhIj3pC4/+bimXrXvj",
+                "time": 1786831955
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
