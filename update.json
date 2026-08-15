@@ -93,7 +93,14 @@
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
     "testapp": {
-        "migrations": []
+        "migrations": [
+            {
+                "file": "app_manager_notifications.json",
+                "hash": "sha256:75c9b6d1a7b9eb406d640fd0f1c9b106b1cfe894919f47c615a2a1a058f2d6cd",
+                "signature": "MEYCIQDy64U+nCrUyinBgV+/ZIvQFinc0ZkeclJahzolK6KmhAIhAIyVodpVhN8dMtYB8c/x4WvLti8SH+R+TIn3NFx34yex",
+                "time": 1786827223
+            }
+        ]
     },
     "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
 }
