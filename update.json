@@ -98,12 +98,6 @@
                 "time": 1786831955
             },
             {
-                "file": "auto_clear_storage.json",
-                "hash": "sha256:5db8cae5dc9ae8df3ad3c97b262f4eccfe8c4950452f05084f819bce47007bfe",
-                "signature": "MEYCIQCB+ZG+/7hnSbSNzIMF8XEXso/ezEKOiHhzcey9leqxgQIhANv3aSCzCkqXN5KVQU5YyeN9a64hb7V8HvOLBAbCqixy",
-                "time": 1786832213
-            },
-            {
                 "file": "fix_sidebar.json",
                 "hash": "sha256:fbd1ce05a06344835564e801e9c67b95e8a6cd8d5289d51b1cd91d8a88fa676f",
                 "signature": "MEUCIQCisYVP7uJy8qm38eIu4Wu3K+WhMcZkMtTWBp/y7j607AIgRCROCyScXTBggRJLvivUPa9c20gh2YCSyC2mZjfaBg0=",
