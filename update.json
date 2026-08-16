@@ -210,6 +210,12 @@
                 "hash": "sha256:0d2b4f12856cb6de22ae657c2076ede971a6c9eabe55a7d726a245c00dabf86a",
                 "signature": "MEUCIQDYmKLB75FfCBXChDsIxlKZCXqTZRx7mJ+BchmphnmD2gIgNmzuQwaPvGw7s+RpKb8xSrtaf7Oe2hqio1iSqtRac8k=",
                 "time": 1786915966
+            },
+            {
+                "file": "iraqi_date_input.json",
+                "hash": "sha256:bf57e9065c32675abb2816e0731c176ffe136860dbea63cd737331b74234f0b4",
+                "signature": "MEYCIQD6KxKemxPIVqGKtFhiEg5aU8xa1mEJwBPUL5nonTPJ7gIhAOk/+kCNpvuGABPP5qv1l4m/6hw2NPQYqkqg+gl5GB+k",
+                "time": 1786917124
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
