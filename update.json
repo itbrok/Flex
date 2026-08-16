@@ -189,12 +189,6 @@
                 "hash": "sha256:3a1756ff404203f7ee654db59f63737e9043e1fdd8c87f9376ca894aa0be7894",
                 "signature": "MEYCIQCcL/p5nCgJV6s24q9vbYCA/xJ/qQizl24/y4HCPElz2gIhAOfDZBFyDBwx+9NHtVxRYTqE8NRTsNuQg9+e47oqANs9",
                 "time": 1786908320
-            },
-            {
-                "file": "prefer_77_printer_for_ledger.json",
-                "hash": "sha256:80571ec49fc930cdf642a624fa16c925bcf0d47846f38111ed7a04327e0438de",
-                "signature": "MEUCIQChwckmkfl9vAR9iaKnMeYeo+IgIid0py1PcLhL/LmDFAIgYgt8YeDelvez8e7B6p7OWp2XiVpPnQFRg5ccZC3ehVc=",
-                "time": 1786908546
             }
         ]
     },
