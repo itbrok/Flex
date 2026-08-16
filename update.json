@@ -156,6 +156,24 @@
                 "hash": "sha256:feea49ac9d7a114efc7e42456216de59f53510679133b1f33f469ac43580a8f4",
                 "signature": "MEUCIFy6zxw01RWQyTHHK2T0ZUkuciflqTdFJphZ94dGTaWiAiEA1YpBCBHSY5MRjGQhmJ5VlBz7UOrSHThW9LwJD6I3tPU=",
                 "time": 1786904338
+            },
+            {
+                "file": "account_ledger_and_ui_fixes.json",
+                "hash": "sha256:716fbc52a62ff8588ea4b9473dcee88cc65abd90d22c8df9de1b8f2c50ac9a04",
+                "signature": "MEUCIQC/bCRvhBi77YMR0p/+mCXAKwCf3LyN9X3UMBWaaK7CyQIgGxFduBcBqbRuzazOwPNBzZJoq3Jjs9MpYlGcUWoKDO8=",
+                "time": 1786907631
+            },
+            {
+                "file": "fix_print_ledger_response.json",
+                "hash": "sha256:3a1756ff404203f7ee654db59f63737e9043e1fdd8c87f9376ca894aa0be7894",
+                "signature": "MEYCIQCcL/p5nCgJV6s24q9vbYCA/xJ/qQizl24/y4HCPElz2gIhAOfDZBFyDBwx+9NHtVxRYTqE8NRTsNuQg9+e47oqANs9",
+                "time": 1786908320
+            },
+            {
+                "file": "prefer_77_printer_for_ledger.json",
+                "hash": "sha256:80571ec49fc930cdf642a624fa16c925bcf0d47846f38111ed7a04327e0438de",
+                "signature": "MEUCIQChwckmkfl9vAR9iaKnMeYeo+IgIid0py1PcLhL/LmDFAIgYgt8YeDelvez8e7B6p7OWp2XiVpPnQFRg5ccZC3ehVc=",
+                "time": 1786908546
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
@@ -177,24 +195,6 @@
                 "hash": "sha256:4297161759c849c325cb0dbff806142ea47ea2bcf094e544d43957eb015a4038",
                 "signature": "MEQCIEYvks7oKVev5HEmpcBZ47AQto/EjuhC9QJ5SjWBzhfjAiBh0R6hmpXTqSHmkWvRV027V6q9Fj+2z5gDUKD8F/VC1g==",
                 "time": 1786828731
-            },
-            {
-                "file": "account_ledger_and_ui_fixes.json",
-                "hash": "sha256:716fbc52a62ff8588ea4b9473dcee88cc65abd90d22c8df9de1b8f2c50ac9a04",
-                "signature": "MEUCIQC/bCRvhBi77YMR0p/+mCXAKwCf3LyN9X3UMBWaaK7CyQIgGxFduBcBqbRuzazOwPNBzZJoq3Jjs9MpYlGcUWoKDO8=",
-                "time": 1786907631
-            },
-            {
-                "file": "fix_print_ledger_response.json",
-                "hash": "sha256:3a1756ff404203f7ee654db59f63737e9043e1fdd8c87f9376ca894aa0be7894",
-                "signature": "MEYCIQCcL/p5nCgJV6s24q9vbYCA/xJ/qQizl24/y4HCPElz2gIhAOfDZBFyDBwx+9NHtVxRYTqE8NRTsNuQg9+e47oqANs9",
-                "time": 1786908320
-            },
-            {
-                "file": "prefer_77_printer_for_ledger.json",
-                "hash": "sha256:80571ec49fc930cdf642a624fa16c925bcf0d47846f38111ed7a04327e0438de",
-                "signature": "MEUCIQChwckmkfl9vAR9iaKnMeYeo+IgIid0py1PcLhL/LmDFAIgYgt8YeDelvez8e7B6p7OWp2XiVpPnQFRg5ccZC3ehVc=",
-                "time": 1786908546
             }
         ]
     },
