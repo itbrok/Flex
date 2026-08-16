@@ -183,6 +183,12 @@
                 "hash": "sha256:716fbc52a62ff8588ea4b9473dcee88cc65abd90d22c8df9de1b8f2c50ac9a04",
                 "signature": "MEUCIQC/bCRvhBi77YMR0p/+mCXAKwCf3LyN9X3UMBWaaK7CyQIgGxFduBcBqbRuzazOwPNBzZJoq3Jjs9MpYlGcUWoKDO8=",
                 "time": 1786907631
+            },
+            {
+                "file": "fix_print_ledger_response.json",
+                "hash": "sha256:3a1756ff404203f7ee654db59f63737e9043e1fdd8c87f9376ca894aa0be7894",
+                "signature": "MEYCIQCcL/p5nCgJV6s24q9vbYCA/xJ/qQizl24/y4HCPElz2gIhAOfDZBFyDBwx+9NHtVxRYTqE8NRTsNuQg9+e47oqANs9",
+                "time": 1786908320
             }
         ]
     },
