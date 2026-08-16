@@ -198,6 +198,12 @@
                 "hash": "sha256:ed7ecb051f993ddccdbc3235791b65a6b0be6487da917d7d30b7c37c87583d73",
                 "signature": "MEQCICrOylWiuO2kk6hHBN1WCXM6tdraxtnaSf0w/I4dsC2DAiB5+kgRk0/y7Aj+EW3Vd+quL+rJ9GpeKAgNIvWU2fXzUg==",
                 "time": 1786911663
+            },
+            {
+                "file": "custom_datepicker_flatpickr.json",
+                "hash": "sha256:243c16329b7b8d70bc1338e6be861940c8e6ff154eaa97902b5b1f9866186a5a",
+                "signature": "MEUCIDEgDDwn7VKdhUE7J2Og9DFa4ud5jQavS2RFofGeFYThAiEAkXIAX5ivpElH2zhyzYiifmEDsRFlXUrET9p+JELRbI0=",
+                "time": 1786912505
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
