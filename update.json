@@ -150,6 +150,12 @@
                 "hash": "sha256:d70ca3e8e4a2e5d1580e2920a627fa5d389fb1779d2dca7ae9b841a6c1fe7178",
                 "signature": "MEYCIQCuQ1TBM86sMrwhKgmZcl3yfQ+fmJ/klthZOp1BhwnGSAIhANOSC7KqvVsEa2GqBUaNM3nuXT/rbcLC9X1IkEnxGtRU",
                 "time": 1786872700
+            },
+            {
+                "file": "fix_consumer_search_limit.json",
+                "hash": "sha256:feea49ac9d7a114efc7e42456216de59f53510679133b1f33f469ac43580a8f4",
+                "signature": "MEUCIFy6zxw01RWQyTHHK2T0ZUkuciflqTdFJphZ94dGTaWiAiEA1YpBCBHSY5MRjGQhmJ5VlBz7UOrSHThW9LwJD6I3tPU=",
+                "time": 1786904338
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
