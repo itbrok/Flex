@@ -251,7 +251,7 @@
                 "file": "fix_progress_bar_animation.json",
                 "hash": "sha256:153bbdafd078fed2c3d6f6f5f6464ec6e9e83dc1422ae75e02381f266ce68493",
                 "signature": "MEUCIGma/2FI67AX2GCHAQvFbxy5TkdDZDddrWLTfL2pSivOAiEAh/dYKT5NCftCeeDzSLqb1earFrHfVukH3hDzj1o2MEI=",
-                "time": 1786972214
+                "time": 1786789570
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
