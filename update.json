@@ -250,7 +250,7 @@
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
-    "version": "1.1.3",
+    "version": "1.1.4",
     "zip": "https://github.com/itbrok/FlexPOS/archive/refs/heads/main.zip",
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
@@ -272,6 +272,13 @@
     },
     "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/",
     "batchUpdate": {
-        "migrations": []
+        "migrations": [
+            {
+                "file": "auto_versioning_updater.json",
+                "hash": "sha256:21c268b68dd6422ed4dabbfb47948ce45d6cd010aa0e4a82f6a39c122f736c8b",
+                "signature": "MEUCIQDx3hHDFHYEgN8RcEu2FgOCtWo92nlj3U2vpnZWNaADSAIgaUspRDkS8clY1SjokENpBUDk8ezXzRF2hhGtVvb+mI0=",
+                "time": 1786971806
+            }
+        ]
     }
 }
