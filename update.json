@@ -246,11 +246,17 @@
                 "hash": "sha256:f8ac2f9a38b4aef4f2745b0f5c7361a976ac55cab2f90d4e673db9af8d5b2bc2",
                 "signature": "MEQCIFe5Q+SV6XAOD0OWlXEgpilJTs268WdEVOXGObRjLhZIAiAnK6Ge7tKZpi08/fSIolXi2fywb4ZDOqHJLOOyBkOncQ==",
                 "time": 1786969064
+            },
+            {
+                "file": "fix_progress_bar_alraghib.json",
+                "hash": "sha256:7bbdb539b35e10132aaae0b813f19a2683d9856d5614de150270dd6f7da62703",
+                "signature": "MEYCIQCp+P9UmTsqTOiTpuDjgMYlvvow5TS4nl7NMjl1lkec9QIhAJ1J582oSvdJLNb4B/1p443rdprsBRcQE7LD+5HkiVBL",
+                "time": 1786973899
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
-    "version": "1.1.5",
+    "version": "1.1.6",
     "zip": "https://github.com/itbrok/FlexPOS/archive/refs/heads/main.zip",
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
@@ -272,8 +278,6 @@
     },
     "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/",
     "batchUpdate": {
-        "migrations": [
-            
-        ]
+        "migrations": []
     }
 }
