@@ -270,11 +270,17 @@
                 "hash": "sha256:402eb3c46d61c27f45daa0ec7f1cd2715d51523b19463dcdfbcc0efb2b6f8f58",
                 "signature": "MEYCIQDNObQlhnXNt/GcXn1QJT7BVbRZXJ5jaYP41gPsIZiqewIhAL6cwb8yFHG+8vb6iSD71pE7a2cCJVtWYtjvAYe7wi6c",
                 "time": 1787059264
+            },
+            {
+                "file": "purchase_invoice_navigation.json",
+                "hash": "sha256:1846b9688f0cfc7424ec5eaa5f4358729282c6d98d6308234b7d4341f597a508",
+                "signature": "MEUCIEMtAslTG/KMJnjPGaRdsF7xzGTjmASDn6Q3Z7FEF2+BAiEAiOkaIJcfSxYebv0R2Hd8gfTlemjx5o8p24aBx1/TDXo=",
+                "time": 1787061154
             }
         ],
         "migrations_base_url": "https://raw.githubusercontent.com/itbrok/Flex/refs/heads/main/patches/"
     },
-    "version": "1.1.12",
+    "version": "1.1.13",
     "zip": "https://github.com/itbrok/FlexPOS/archive/refs/heads/main.zip",
     "localzip": "http://localhost/Flex/zip.php",
     "control": "https://tikpo.ibrok.repl.co/control.php",
